@@ -1,3 +1,4 @@
+<br>
 
 💼 Research Fellow, *London School of Economics*
 
@@ -5,12 +6,10 @@
 
 👉 [louissirugue.com](https://www.louissirugue.com/)
 
-<br>
+<hr>
 
-
-**Expertise**
 > 🔎 Empirical Public & Labor Economics
 > 
 > 📈 Econometric Analysis of Public Policies on Administrative Data
 
-
+<br>
