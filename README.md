@@ -8,6 +8,8 @@
 
 <br>
 
+**Expertise**
+
 > 🔎 Empirical Public & Labor Economics
 > 
 > 📈 Econometric Analysis of Public Policies on Administrative Data
