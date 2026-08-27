@@ -6,7 +6,7 @@
 
 👉 [louissirugue.com](https://www.louissirugue.com/)
 
-<hr>
+<br>
 
 > 🔎 Empirical Public & Labor Economics
 > 
