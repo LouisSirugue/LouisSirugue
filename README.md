@@ -12,6 +12,6 @@
 
 > 🔎 Empirical Public & Labor Economics
 > 
-> 📈 Econometric Analysis of Public Policies using Administrative Data
+> 📈 Econometric Analysis of Public Policies using Large-Scale Administrative Data
 
 <br>
