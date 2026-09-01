@@ -10,7 +10,7 @@
 
 **Expertise**
 
-> 🔎 Empirical Public & Labor Economics
+> 🔎 Empirical Labor & Public Economics
 > 
 > 📈 Econometric Analysis of Public Policies using Large-Scale Administrative Data
 
